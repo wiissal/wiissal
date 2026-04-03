@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Mobile+Developer;React+Native+%7C+Node.js+%7C+PostgreSQL;From+idea+to+deployed+app;Always+curious.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=ffffff&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Mobile+Developer;React+Native+%7C+Node.js+%7C+PostgreSQL;From+idea+to+deployed+app+%F0%9F%9A%80;Always+curious.+Always+building." alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hello, I'm WISSAL 🦉</h1>
