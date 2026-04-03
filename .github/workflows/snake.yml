@@ -14,7 +14,7 @@ jobs:
           github_user_name: wiissal
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ffffff&color_dots=#0d1117,#4c1d95,#6d28d9,#8b5cf6,#c4b5fd
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=c084fc&color_dots=#161b22,#1e1b2e,#4c1d95,#7c3aed,#a855f7
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
